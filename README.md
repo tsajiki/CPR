@@ -7,6 +7,7 @@
 ### 検討事項
 - 手入力。
 - OCRエンジン Tesseract（テッセラクト）のLSTM学習によるチューニング。
+- [OCR sample - Code Samples | Microsoft Docs](https://docs.microsoft.com/ja-jp/samples/microsoft/windows-universal-samples/ocr/)
 
 ### リンク
 - [国立国会図書館デジタルコレクション](https://dl.ndl.go.jp/)
