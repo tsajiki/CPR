@@ -8,7 +8,7 @@
 - 手入力。
 - OCRエンジン Tesseract（テッセラクト）のLSTM学習によるチューニング。
 - [OCR sample - Code Samples | Microsoft Docs](https://docs.microsoft.com/ja-jp/samples/microsoft/windows-universal-samples/ocr/)
-
+- [OCR処理プログラム及び学習用データセットの公開について | NDLラボ](https://lab.ndl.go.jp/news/2022/2022-04-25/)
 ### リンク
 - [国立国会図書館デジタルコレクション](https://dl.ndl.go.jp/)
 - [Google ブックス](https://books.google.co.jp/)
